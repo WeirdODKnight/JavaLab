@@ -1,0 +1,2 @@
+module javaLav {
+}
