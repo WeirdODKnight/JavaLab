@@ -1,4 +1,4 @@
-package com.craft.knowledges.amir;
+package com.craft.knowledges.build;
 
 import java.util.ArrayList;
 import java.util.Scanner;
